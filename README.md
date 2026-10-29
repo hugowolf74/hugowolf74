@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <!--
+Hugo García Sánchez | Animador e Ilustrador
 
 - 🔭 I’m currently working on ...
 Juego de acción "The Cat from the East". Ambientado en el japón feudal, protagonizado y poblado por gatos.
