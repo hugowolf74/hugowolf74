@@ -3,7 +3,9 @@
 <!--
 
 - 🔭 I’m currently working on ...
-Ampliar mis conocimientos y buscar maneras de obtener experiencia
+Juego de acción "The Cat from the East". Ambientado en el japón feudal, protagonizado y poblado por gatos.
+El juego tendrá un estilo Pixel Art, con algunas ilustraciones hechas en 2D tradicional
+
 - 🌱 I’m currently learning ...
 Grado Superior de Animación 3D, Videojuegos y Entornos, de parte de Davante
 Se utilizar:
